@@ -1,4 +1,4 @@
-# EQ_Developer_Test The code is in 
+# EQ_Developer_Test The code is in EQ works test.ipynb
 
 Problem 4a BONUS
 
@@ -23,4 +23,6 @@ avg distance : how far the people coming away will commute (will generally be cl
 density : people per radius [rank 5] - Linear
 
 
+I would have completed 4.b but I am very busy with school (midterms) and extra curriculars currently, and need to allocate my time elsewhere.
 
+Side Note: I really enjoyed this challenge, I found the data interesting and there seemed to be lots of extractable information :)
