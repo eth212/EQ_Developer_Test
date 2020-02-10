@@ -25,4 +25,6 @@ density : people per radius [rank 5] - Linear
 
 I would have completed 4.b but I am very busy with school (midterms) and extra curriculars currently, and need to allocate my time elsewhere.
 
-Side Note: I really enjoyed this challenge, I found the data interesting and there seemed to be lots of extractable information :)
+Side Note: I really enjoyed this challenge, I found the data interesting and there seemed to be lots of extractable information
+
+I wrote my functions and methods to demonstrate understanding and clearify which solution belongs to which problem, If this was production code I would have used libraries to speed up most of the calculations used and I would not have seperate "for" loops on each different step. 
